@@ -1,7 +1,7 @@
-# Aplicação React Native - Input de Texto
+# Aplicação React Native - Input
 
-<div aling="center"> 
-    <img src="" width="">
+<div align="center"> 
+    <img src="https://github.com/Savyo-Marques/Input-Text-React-Native/assets/129305960/5448d20b-4342-4889-a722-788868c4b103" width="400">
 </div>
 
 ## Descrição
